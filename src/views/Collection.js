@@ -20,7 +20,7 @@ export default function Collection() {
 
     {
       id: 3,
-      title: 'Arabada +200km/h',
+      title: 'in the car +200km/h',
       artist: 'Gears three to five',
       image: 'https://i.scdn.co/image/ab67706c0000da84471d7ab0ca5344e0a9deec7c'
     },

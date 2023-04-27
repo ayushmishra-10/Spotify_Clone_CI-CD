@@ -16,12 +16,12 @@ export default function Playlist() {
             </li>
             <li className='mb-2'>
                 <a href="#" className='text-link hover:text-white text-sm font-semibold'>
-                    Arabada +200km/h
+                    in the car +200km/h
                 </a>
             </li>
             <li className='mb-2'>
                 <a href="#" className='text-link hover:text-white text-sm font-semibold'>
-                    Haluk Levent List
+                    Haluk famous List
                 </a>
             </li>
             <li className='mb-2'>
@@ -46,12 +46,12 @@ export default function Playlist() {
             </li>
             <li className='mb-2'>
                 <a href="#" className='text-link hover:text-white text-sm font-semibold'>
-                    Arabada +200km/h
+                In the car +200km/h
                 </a>
             </li>
             <li className='mb-2'>
                 <a href="#" className='text-link hover:text-white text-sm font-semibold'>
-                    Haluk Levent List
+                    Slow famous List
                 </a>
             </li>
             <li className='mb-2'>
